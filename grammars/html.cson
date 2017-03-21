@@ -156,7 +156,7 @@
     ]
   }
   {
-    'begin': '(?:^\\s+)?(<)((?i:script))\\b(?=[^>]*\\btype\\s*=\\s*[\'"]?text/(x-handlebars|(x-(handlebars-)?|ng-)?template|html)[\'"]?)(?![^>]*/>)'
+    'begin': '(?:^\\s+)?(<)((?i:script))\\b(?=[^>]*\\btype\\s*=\\s*[\'"]?text/(x-handlebars|(x-(handlebars-)?|ng-|ss-)?template|html)[\'"]?)(?![^>]*/>)'
     'beginCaptures':
       '1':
         'name': 'punctuation.definition.tag.html'
