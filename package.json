@@ -9,11 +9,11 @@
   "homepage": "http://atom.github.io/language-ss-html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-ss-html.git"
+    "url": "https://github.com/julesbravo/language-ss-html.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-ss-html/issues"
+    "url": "https://github.com/julesbravo/language-ss-html/issues"
   },
   "dependencies": {
     "atom-grammar-test": "^0.6.3"
